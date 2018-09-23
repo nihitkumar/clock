@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+body,html{
+    font-family: 'Bungee Shade', cursive;
+    color: white;
+    font-size: 100px;
+    height: 100%;
+}
+#clocky{
+ text-align: center;
+position: relative;
+top:50%;
+margin-top:-50px;
+
+    
+
+}
